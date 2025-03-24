@@ -264,7 +264,7 @@ public class assignment_2 {
 
     public static void main(String[] args) {
         System.out.print("\033[H\033[2J");
-        assignment_1 obj = new assignment_1();
+        assignment_2 obj = new assignment_2();
         Scanner keyB = new Scanner(System.in);
         
         while (true) {
